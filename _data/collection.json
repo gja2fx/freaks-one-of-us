@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Freaks (1932) \"One of Us!\"" ] },
+    "summary": { "en": [ "A scene from the 1932 film Freaks." ] },
+    "items": [
+    ]
+}
